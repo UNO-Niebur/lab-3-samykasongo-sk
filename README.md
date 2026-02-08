@@ -11,7 +11,7 @@ This lab gives practice with:
 - loops (`for` and `while`)
 - program flow control
 
-Detailed explanations and examples are provided in **Canvas**.
+Detailed explanations and examples ar`e provided in **Canvas**.
 
 ---
 
